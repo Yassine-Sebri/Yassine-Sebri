@@ -4,9 +4,9 @@ I am <a href="https://yassinesebri.com">Yassine</a>, a developer and a hacker.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yassine-Sebri" alt="Yassine-Sebri" /> </p>
 
-- 🌱 I’m currently learning ** Golang **
-- 🥅 2023 Goals: To get a job in DevOps, Cybersecurity or Network Engineering
-- ⚡ Fun fact: I love taking photos, playing video games.
+- 🌱 I’m currently learning Golang.
+- 🥅 2023 Goals: To get a job in DevOps, Cybersecurity or Network Engineering.
+- ⚡ Fun fact: I love watching anime and playing video games.
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
