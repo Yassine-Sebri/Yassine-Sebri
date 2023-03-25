@@ -4,5 +4,5 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 If you want to learn more about me feel you can visit my <a href="yassinesebri.com"><b>website</b></a>.
 
 <h3>Contact me:</h3>
-<a href="mailto:contact@yassinesebri.com"><b>Email</b></a><br/>
-<a href="https://www.linkedin.com/in/yassinesebri/"><b>Linkdin</b></a><br/>
+<a href="mailto:contact@yassinesebri.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/yassinesebri/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/>
